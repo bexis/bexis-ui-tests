@@ -13,5 +13,8 @@
   },
   "scripts": {
 		"run all tests": "npx playwright test"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
   }
 }
